@@ -1,0 +1,21 @@
+
+:
+java:S2386"Make this member "protected".(÷ˆÁİ8è¼«ÃÈ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯Ÿ‚·ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ô¿ƒ‰úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Äı¼·ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(çõ½üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÚºÙ®
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(Ê»ÿì
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ÆÄûÄ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(áºÀÚ
+
+java:S1319"iThe type of "arrayList" should be an interface such as "List" rather than the implementation "ArrayList".(÷ˆÁİ
+k
+java:S1104"UMake arrayList a static final constant or non-public and provide accessors if needed.(÷ˆÁİ
+E
+java:S1444"/Make this "public static arrayList" field final(÷ˆÁİ
+}
+java:S4165*"bRemove this useless assignment; "flag" already holds the assigned value along all execution paths.(³ÖÉÿÿÿÿÿ
+M
+java:S2589"7Remove this expression which always evaluates to "true"(¾İ”

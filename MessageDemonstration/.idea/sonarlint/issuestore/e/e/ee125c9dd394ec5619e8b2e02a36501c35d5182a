@@ -1,0 +1,11 @@
+
+]
+java:S1854,";Remove this useless assignment to local variable "message".(≈Â‘ï¸ˇˇˇˇ8ìãµ∆»/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(öºˇ≤
+N	java:S106"9Replace this use of System.out or System.err by a logger.(êÙ‘¡
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„—ÄÈ¯ˇˇˇˇ
+>
+java:S5856"(Fix the syntax errors inside this regex.(æ¿òÅ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°™π“
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(πú·Ú
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ¿òÅ
